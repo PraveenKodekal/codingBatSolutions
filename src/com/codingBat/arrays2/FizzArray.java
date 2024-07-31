@@ -13,7 +13,7 @@ public class FizzArray {
 			nums[i]=i;
 		}
 		for(int num:nums)
-			System.err.println(num);
+			System.err.print(num);
 		return nums;
 		
 	}
